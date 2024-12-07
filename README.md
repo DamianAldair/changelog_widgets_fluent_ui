@@ -15,6 +15,7 @@ Add following dependency to your `pubspec.yaml`.
 
 ```yaml
 dependencies:
+  fluent_ui: <latest_version>
   changelog_widgets_fluent_ui: <latest_version>
 ```
 
@@ -32,6 +33,7 @@ flutter:
 Import the package.
 ```dart
 import 'package:changelog_widgets/changelog_widgets_fluent_ui.dart';
+import 'package:fluent_ui/fluent_ui.dart';
 ```
 
 Now, you can use the view and dialogs.
