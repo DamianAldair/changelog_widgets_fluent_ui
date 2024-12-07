@@ -36,7 +36,7 @@ import 'package:changelog_widgets/changelog_widgets_fluent_ui.dart';
 import 'package:fluent_ui/fluent_ui.dart';
 ```
 
-Now, you can use the view and dialogs.
+Now, you can use the view and the dialog.
 
 ## Available widgets
 
