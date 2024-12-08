@@ -1,6 +1,12 @@
+## 1.0.2
+
+- Minor issues.
+
+
 ## 1.0.1
 
 - MIT License added.
+
 
 ## 1.0.0
 
