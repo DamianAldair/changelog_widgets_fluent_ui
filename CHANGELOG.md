@@ -1,3 +1,7 @@
+## 1.0.1
+
+- MIT License added.
+
 ## 1.0.0
 
 - Content for be used by other widgets: `ChangelogContent`.
